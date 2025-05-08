@@ -1,7 +1,3 @@
-# 💆‍♀️ App de Clínica de Harmonização Facial
-
-Projeto desenvolvido para a **prova de Desenvolvimento Mobile - 1º Bimestre**, por **Victor Luis Romão dos Santos**.
-
 ## 📱 Sobre o Projeto
 
 Este aplicativo foi criado com **React Native**, **JavaScript** e **React Navigation**, com o objetivo de explorar e compreender **a navegação entre páginas em aplicações mobile**.
